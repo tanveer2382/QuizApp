@@ -1,0 +1,19 @@
+*{
+  background-color:white;
+}
+
+
+
+ul .selected-answer{
+  font-weight: bold;
+}
+
+ul .rigth-answer{
+  color:green;
+  font-weight: bold;
+}
+
+ul .wrong-answer{
+  color: red;
+  font-weight: bold;
+}
