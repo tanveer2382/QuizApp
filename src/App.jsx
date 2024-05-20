@@ -55,7 +55,7 @@ const App = () => {
   return (
     <>
       <div className="card">
-        <h1>Quiz App</h1>
+        <h1>Tanveer Quiz App</h1>
         {/* <h2>{questions[activeQuestion].question}</h2> */}
         <h2>{question}</h2>
         <ul>
